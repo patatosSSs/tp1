@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: hsl(143, 100%, 50%);
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    margin:auto;
+    margin-right: 20px;
+}
+svg{
+    margin: 5px;
+}
+.titre{
+    font-weight: bold;
+    margin: 5px;
+}
+.text{
+    margin: 5px;
+    display: flex;
+}
+a{
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+hr{
+    margin: 0;
+}
